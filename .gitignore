@@ -23,4 +23,4 @@ scripts-custom/.env
 scripts-custom/*.csv
 scripts-custom/*.log
 scripts-custom/*.out
-scripts-custom/output/
+scripts-custom/output/*
