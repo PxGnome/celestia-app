@@ -18,4 +18,9 @@ square/testdata
 **/*.DS_Store
 vendor
 # Custom ignores for WIP items
-scripts-custom/
+# scripts-custom/
+scripts-custom/.env
+scripts-custom/*.csv
+scripts-custom/*.log
+scripts-custom/*.out
+scripts-custom/output/
