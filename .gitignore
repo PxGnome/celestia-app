@@ -17,3 +17,5 @@ square/testdata
 .release-env
 **/*.DS_Store
 vendor
+# Custom ignores for WIP items
+scripts-custom/
